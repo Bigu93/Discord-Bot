@@ -22,5 +22,3 @@ This is a simple Discord bot written in Python.
    `python bot.py`
 
 ## Usage
-
-Describe how to use your bot here.
